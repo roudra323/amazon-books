@@ -1,41 +1,31 @@
 import "./App.css";
 
+import data from "./data";
+
 export default function BookList() {
   return (
     <section className="book-list">
-      <Book />
-      <Book />
-      <Book />
-      <Book />
-      <Book />
+      {data.map((book) => {
+        const { id, title, author, imageLink } = book;
+        return <Book book={book} />;
+      })}
     </section>
   );
 }
 
-function Book() {
+function Book(props) {
+  const { id, title, author, imageLink } = props.book;
   return (
     <article className="book">
-      <Image />
-      <Title />
-      <Author />
+      <h4>{id}</h4>
+      <img
+        src={
+          "D:/Learning React/react-app-vite/amazon/src/assets/images/things-fall-apart.jpg"
+        }
+        alt=""
+      />
+      <h1>{title}</h1>
+      <h4>{author}</h4>
     </article>
   );
 }
-
-const Image = () => {
-  return (
-    <img
-      src="https://images-na.ssl-images-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81fyoFoaxlL._AC_UL600_SR600,400_.jpg"
-      alt=""
-    />
-  );
-};
-
-const Title = () => (
-  <h1>
-    Dog Man: Twenty Thousand Fleas Under the Sea: A Graphic Novel (Dog Man #11):
-    From the Creator of Captain Underpants
-  </h1>
-);
-
-const Author = () => <h4>Dav Pilkey</h4>;
