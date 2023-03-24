@@ -2,7 +2,11 @@ import "./App.css";
 
 export default function BookList() {
   return (
-    <section>
+    <section className="book-list">
+      <Book />
+      <Book />
+      <Book />
+      <Book />
       <Book />
     </section>
   );
@@ -10,7 +14,7 @@ export default function BookList() {
 
 function Book() {
   return (
-    <article>
+    <article className="book">
       <Image />
       <Title />
       <Author />
