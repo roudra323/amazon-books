@@ -2,7 +2,7 @@ export default [
   {
     author: "Chinua Achebe",
     country: "Nigeria",
-    imageLink: "./assets/images/things-fall-apart.jpg",
+    img: "things-fall-apart.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
     pages: 209,
@@ -13,7 +13,7 @@ export default [
   {
     author: "Hans Christian Andersen",
     country: "Denmark",
-    imageLink: "./assets/images/fairy-tales.jpg",
+    img: "fairy-tales.jpg",
     language: "Danish",
     link: "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
     pages: 784,
@@ -24,7 +24,7 @@ export default [
   {
     author: "Dante Alighieri",
     country: "Italy",
-    imageLink: "./assets/images/the-divine-comedy.jpg",
+    img: "the-divine-comedy.jpg",
     language: "Italian",
     link: "https://en.wikipedia.org/wiki/Divine_Comedy\n",
     pages: 928,
@@ -35,7 +35,7 @@ export default [
   {
     author: "Unknown",
     country: "Sumer and Akkadian Empire",
-    imageLink: "./assets/images/the-epic-of-gilgamesh.jpg",
+    img: "the-epic-of-gilgamesh.jpg",
     language: "Akkadian",
     link: "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh\n",
     pages: 160,
@@ -46,7 +46,7 @@ export default [
   {
     author: "Unknown",
     country: "Achaemenid Empire",
-    imageLink: "./assets/images/the-book-of-job.jpg",
+    img: "the-book-of-job.jpg",
     language: "Hebrew",
     link: "https://en.wikipedia.org/wiki/Book_of_Job\n",
     pages: 176,
@@ -57,7 +57,7 @@ export default [
   {
     author: "Unknown",
     country: "India/Iran/Iraq/Egypt/Tajikistan",
-    imageLink: "./assets/images/one-thousand-and-one-nights.jpg",
+    img: "one-thousand-and-one-nights.jpg",
     language: "Arabic",
     link: "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights\n",
     pages: 288,
@@ -68,7 +68,7 @@ export default [
   {
     author: "Unknown",
     country: "Iceland",
-    imageLink: "./assets/images/njals-saga.jpg",
+    img: "njals-saga.jpg",
     language: "Old Norse",
     link: "https://en.wikipedia.org/wiki/Nj%C3%A1ls_saga\n",
     pages: 384,
@@ -79,7 +79,7 @@ export default [
   {
     author: "Jane Austen",
     country: "United Kingdom",
-    imageLink: "./assets/images/pride-and-prejudice.jpg",
+    img: "pride-and-prejudice.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/Pride_and_Prejudice\n",
     pages: 226,
@@ -90,7 +90,7 @@ export default [
   {
     author: "Honoré de Balzac",
     country: "France",
-    imageLink: "./assets/images/le-pere-goriot.jpg",
+    img: "le-pere-goriot.jpg",
     language: "French",
     link: "https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot\n",
     pages: 443,
@@ -101,7 +101,7 @@ export default [
   {
     author: "Samuel Beckett",
     country: "Republic of Ireland",
-    imageLink: "./assets/images/molloy-malone-dies-the-unnamable.jpg",
+    img: "molloy-malone-dies-the-unnamable.jpg",
     language: "French, English",
     link: "https://en.wikipedia.org/wiki/Molloy_(novel)\n",
     pages: 256,
@@ -112,7 +112,7 @@ export default [
   {
     author: "Giovanni Boccaccio",
     country: "Italy",
-    imageLink: "./assets/images/the-decameron.jpg",
+    img: "the-decameron.jpg",
     language: "Italian",
     link: "https://en.wikipedia.org/wiki/The_Decameron\n",
     pages: 1024,
@@ -123,7 +123,7 @@ export default [
   {
     author: "Jorge Luis Borges",
     country: "Argentina",
-    imageLink: "./assets/images/ficciones.jpg",
+    img: "ficciones.jpg",
     language: "Spanish",
     link: "https://en.wikipedia.org/wiki/Ficciones\n",
     pages: 224,
@@ -134,7 +134,7 @@ export default [
   {
     author: "Emily Brontë",
     country: "United Kingdom",
-    imageLink: "./assets/images/wuthering-heights.jpg",
+    img: "wuthering-heights.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/Wuthering_Heights\n",
     pages: 342,
@@ -145,7 +145,7 @@ export default [
   {
     author: "Albert Camus",
     country: "Algeria, French Empire",
-    imageLink: "./assets/images/l-etranger.jpg",
+    img: "l-etranger.jpg",
     language: "French",
     link: "https://en.wikipedia.org/wiki/The_Stranger_(novel)\n",
     pages: 185,
@@ -156,7 +156,7 @@ export default [
   {
     author: "Paul Celan",
     country: "Romania, France",
-    imageLink: "./assets/images/poems-paul-celan.jpg",
+    img: "poems-paul-celan.jpg",
     language: "German",
     link: "\n",
     pages: 320,
@@ -167,7 +167,7 @@ export default [
   {
     author: "Louis-Ferdinand Céline",
     country: "France",
-    imageLink: "./assets/images/voyage-au-bout-de-la-nuit.jpg",
+    img: "voyage-au-bout-de-la-nuit.jpg",
     language: "French",
     link: "https://en.wikipedia.org/wiki/Journey_to_the_End_of_the_Night\n",
     pages: 505,
@@ -178,7 +178,7 @@ export default [
   {
     author: "Miguel de Cervantes",
     country: "Spain",
-    imageLink: "./assets/images/don-quijote-de-la-mancha.jpg",
+    img: "don-quijote-de-la-mancha.jpg",
     language: "Spanish",
     link: "https://en.wikipedia.org/wiki/Don_Quixote\n",
     pages: 1056,
@@ -189,7 +189,7 @@ export default [
   {
     author: "Geoffrey Chaucer",
     country: "England",
-    imageLink: "./assets/images/the-canterbury-tales.jpg",
+    img: "the-canterbury-tales.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/The_Canterbury_Tales\n",
     pages: 544,
@@ -200,7 +200,7 @@ export default [
   {
     author: "Anton Chekhov",
     country: "Russia",
-    imageLink: "./assets/images/stories-of-anton-chekhov.jpg",
+    img: "stories-of-anton-chekhov.jpg",
     language: "Russian",
     link: "https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov\n",
     pages: 194,
@@ -211,7 +211,7 @@ export default [
   {
     author: "Joseph Conrad",
     country: "United Kingdom",
-    imageLink: "./assets/images/nostromo.jpg",
+    img: "nostromo.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/Nostromo\n",
     pages: 320,
@@ -222,7 +222,7 @@ export default [
   {
     author: "Charles Dickens",
     country: "United Kingdom",
-    imageLink: "./assets/images/great-expectations.jpg",
+    img: "great-expectations.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/Great_Expectations\n",
     pages: 194,
@@ -233,7 +233,7 @@ export default [
   {
     author: "Denis Diderot",
     country: "France",
-    imageLink: "./assets/images/jacques-the-fatalist.jpg",
+    img: "jacques-the-fatalist.jpg",
     language: "French",
     link: "https://en.wikipedia.org/wiki/Jacques_the_Fatalist\n",
     pages: 596,
@@ -244,7 +244,7 @@ export default [
   {
     author: "Alfred Döblin",
     country: "Germany",
-    imageLink: "./assets/images/berlin-alexanderplatz.jpg",
+    img: "berlin-alexanderplatz.jpg",
     language: "German",
     link: "https://en.wikipedia.org/wiki/Berlin_Alexanderplatz\n",
     pages: 600,
@@ -255,7 +255,7 @@ export default [
   {
     author: "Fyodor Dostoevsky",
     country: "Russia",
-    imageLink: "./assets/images/crime-and-punishment.jpg",
+    img: "crime-and-punishment.jpg",
     language: "Russian",
     link: "https://en.wikipedia.org/wiki/Crime_and_Punishment\n",
     pages: 551,
@@ -266,7 +266,7 @@ export default [
   {
     author: "Fyodor Dostoevsky",
     country: "Russia",
-    imageLink: "./assets/images/the-idiot.jpg",
+    img: "the-idiot.jpg",
     language: "Russian",
     link: "https://en.wikipedia.org/wiki/The_Idiot\n",
     pages: 656,
@@ -277,7 +277,7 @@ export default [
   {
     author: "Fyodor Dostoevsky",
     country: "Russia",
-    imageLink: "./assets/images/the-possessed.jpg",
+    img: "the-possessed.jpg",
     language: "Russian",
     link: "https://en.wikipedia.org/wiki/Demons_(Dostoyevsky_novel)\n",
     pages: 768,
@@ -288,7 +288,7 @@ export default [
   {
     author: "Fyodor Dostoevsky",
     country: "Russia",
-    imageLink: "./assets/images/the-brothers-karamazov.jpg",
+    img: "the-brothers-karamazov.jpg",
     language: "Russian",
     link: "https://en.wikipedia.org/wiki/The_Brothers_Karamazov\n",
     pages: 824,
@@ -299,7 +299,7 @@ export default [
   {
     author: "George Eliot",
     country: "United Kingdom",
-    imageLink: "./assets/images/middlemarch.jpg",
+    img: "middlemarch.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/Middlemarch\n",
     pages: 800,
@@ -310,7 +310,7 @@ export default [
   {
     author: "Ralph Ellison",
     country: "United States",
-    imageLink: "./assets/images/invisible-man.jpg",
+    img: "invisible-man.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/Invisible_Man\n",
     pages: 581,
@@ -321,7 +321,7 @@ export default [
   {
     author: "Euripides",
     country: "Greece",
-    imageLink: "./assets/images/medea.jpg",
+    img: "medea.jpg",
     language: "Greek",
     link: "https://en.wikipedia.org/wiki/Medea_(play)\n",
     pages: 104,
@@ -332,7 +332,7 @@ export default [
   {
     author: "William Faulkner",
     country: "United States",
-    imageLink: "./assets/images/absalom-absalom.jpg",
+    img: "absalom-absalom.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/Absalom,_Absalom!\n",
     pages: 313,
@@ -343,7 +343,7 @@ export default [
   {
     author: "William Faulkner",
     country: "United States",
-    imageLink: "./assets/images/the-sound-and-the-fury.jpg",
+    img: "the-sound-and-the-fury.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury\n",
     pages: 326,
@@ -354,7 +354,7 @@ export default [
   {
     author: "Gustave Flaubert",
     country: "France",
-    imageLink: "./assets/images/madame-bovary.jpg",
+    img: "madame-bovary.jpg",
     language: "French",
     link: "https://en.wikipedia.org/wiki/Madame_Bovary\n",
     pages: 528,
@@ -365,7 +365,7 @@ export default [
   {
     author: "Gustave Flaubert",
     country: "France",
-    imageLink: "./assets/images/l-education-sentimentale.jpg",
+    img: "l-education-sentimentale.jpg",
     language: "French",
     link: "https://en.wikipedia.org/wiki/Sentimental_Education\n",
     pages: 606,
@@ -376,7 +376,7 @@ export default [
   {
     author: "Federico García Lorca",
     country: "Spain",
-    imageLink: "./assets/images/gypsy-ballads.jpg",
+    img: "gypsy-ballads.jpg",
     language: "Spanish",
     link: "https://en.wikipedia.org/wiki/Gypsy_Ballads\n",
     pages: 218,
@@ -387,7 +387,7 @@ export default [
   {
     author: "Gabriel García Márquez",
     country: "Colombia",
-    imageLink: "./assets/images/one-hundred-years-of-solitude.jpg",
+    img: "one-hundred-years-of-solitude.jpg",
     language: "Spanish",
     link: "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude\n",
     pages: 417,
@@ -398,7 +398,7 @@ export default [
   {
     author: "Gabriel García Márquez",
     country: "Colombia",
-    imageLink: "./assets/images/love-in-the-time-of-cholera.jpg",
+    img: "love-in-the-time-of-cholera.jpg",
     language: "Spanish",
     link: "https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera\n",
     pages: 368,
@@ -409,7 +409,7 @@ export default [
   {
     author: "Johann Wolfgang von Goethe",
     country: "Saxe-Weimar",
-    imageLink: "./assets/images/faust.jpg",
+    img: "faust.jpg",
     language: "German",
     link: "https://en.wikipedia.org/wiki/Goethe%27s_Faust\n",
     pages: 158,
@@ -420,7 +420,7 @@ export default [
   {
     author: "Nikolai Gogol",
     country: "Russia",
-    imageLink: "./assets/images/dead-souls.jpg",
+    img: "dead-souls.jpg",
     language: "Russian",
     link: "https://en.wikipedia.org/wiki/Dead_Souls\n",
     pages: 432,
@@ -431,7 +431,7 @@ export default [
   {
     author: "Günter Grass",
     country: "Germany",
-    imageLink: "./assets/images/the-tin-drum.jpg",
+    img: "the-tin-drum.jpg",
     language: "German",
     link: "https://en.wikipedia.org/wiki/The_Tin_Drum\n",
     pages: 600,
@@ -442,7 +442,7 @@ export default [
   {
     author: "João Guimarães Rosa",
     country: "Brazil",
-    imageLink: "./assets/images/the-devil-to-pay-in-the-backlands.jpg",
+    img: "the-devil-to-pay-in-the-backlands.jpg",
     language: "Portuguese",
     link: "https://en.wikipedia.org/wiki/The_Devil_to_Pay_in_the_Backlands\n",
     pages: 494,
@@ -453,7 +453,7 @@ export default [
   {
     author: "Knut Hamsun",
     country: "Norway",
-    imageLink: "./assets/images/hunger.jpg",
+    img: "hunger.jpg",
     language: "Norwegian",
     link: "https://en.wikipedia.org/wiki/Hunger_(Hamsun_novel)\n",
     pages: 176,
@@ -464,7 +464,7 @@ export default [
   {
     author: "Ernest Hemingway",
     country: "United States",
-    imageLink: "./assets/images/the-old-man-and-the-sea.jpg",
+    img: "the-old-man-and-the-sea.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea\n",
     pages: 128,
@@ -475,7 +475,7 @@ export default [
   {
     author: "Homer",
     country: "Greece",
-    imageLink: "./assets/images/the-iliad-of-homer.jpg",
+    img: "the-iliad-of-homer.jpg",
     language: "Greek",
     link: "https://en.wikipedia.org/wiki/Iliad\n",
     pages: 608,
@@ -486,7 +486,7 @@ export default [
   {
     author: "Homer",
     country: "Greece",
-    imageLink: "./assets/images/the-odyssey-of-homer.jpg",
+    img: "the-odyssey-of-homer.jpg",
     language: "Greek",
     link: "https://en.wikipedia.org/wiki/Odyssey\n",
     pages: 374,
@@ -497,7 +497,7 @@ export default [
   {
     author: "Henrik Ibsen",
     country: "Norway",
-    imageLink: "./assets/images/a-Dolls-house.jpg",
+    img: "a-Dolls-house.jpg",
     language: "Norwegian",
     link: "https://en.wikipedia.org/wiki/A_Doll%27s_House\n",
     pages: 68,
@@ -508,7 +508,7 @@ export default [
   {
     author: "James Joyce",
     country: "Irish Free State",
-    imageLink: "./assets/images/ulysses.jpg",
+    img: "ulysses.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/Ulysses_(novel)\n",
     pages: 228,
@@ -519,7 +519,7 @@ export default [
   {
     author: "Franz Kafka",
     country: "Czechoslovakia",
-    imageLink: "./assets/images/stories-of-franz-kafka.jpg",
+    img: "stories-of-franz-kafka.jpg",
     language: "German",
     link: "https://en.wikipedia.org/wiki/Franz_Kafka_bibliography#Short_stories\n",
     pages: 488,
@@ -530,7 +530,7 @@ export default [
   {
     author: "Franz Kafka",
     country: "Czechoslovakia",
-    imageLink: "./assets/images/the-trial.jpg",
+    img: "the-trial.jpg",
     language: "German",
     link: "https://en.wikipedia.org/wiki/The_Trial\n",
     pages: 160,
@@ -541,7 +541,7 @@ export default [
   {
     author: "Franz Kafka",
     country: "Czechoslovakia",
-    imageLink: "./assets/images/the-castle.jpg",
+    img: "the-castle.jpg",
     language: "German",
     link: "https://en.wikipedia.org/wiki/The_Castle_(novel)\n",
     pages: 352,
@@ -552,7 +552,7 @@ export default [
   {
     author: "Kālidāsa",
     country: "India",
-    imageLink: "./assets/images/the-recognition-of-shakuntala.jpg",
+    img: "the-recognition-of-shakuntala.jpg",
     language: "Sanskrit",
     link: "https://en.wikipedia.org/wiki/Abhij%C3%B1%C4%81na%C5%9B%C4%81kuntalam\n",
     pages: 147,
@@ -563,7 +563,7 @@ export default [
   {
     author: "Yasunari Kawabata",
     country: "Japan",
-    imageLink: "./assets/images/the-sound-of-the-mountain.jpg",
+    img: "the-sound-of-the-mountain.jpg",
     language: "Japanese",
     link: "https://en.wikipedia.org/wiki/The_Sound_of_the_Mountain\n",
     pages: 288,
@@ -574,7 +574,7 @@ export default [
   {
     author: "Nikos Kazantzakis",
     country: "Greece",
-    imageLink: "./assets/images/zorba-the-greek.jpg",
+    img: "zorba-the-greek.jpg",
     language: "Greek",
     link: "https://en.wikipedia.org/wiki/Zorba_the_Greek\n",
     pages: 368,
@@ -585,7 +585,7 @@ export default [
   {
     author: "D. H. Lawrence",
     country: "United Kingdom",
-    imageLink: "./assets/images/sons-and-lovers.jpg",
+    img: "sons-and-lovers.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/Sons_and_Lovers\n",
     pages: 432,
@@ -596,7 +596,7 @@ export default [
   {
     author: "Halldór Laxness",
     country: "Iceland",
-    imageLink: "./assets/images/independent-people.jpg",
+    img: "independent-people.jpg",
     language: "Icelandic",
     link: "https://en.wikipedia.org/wiki/Independent_People\n",
     pages: 470,
@@ -607,7 +607,7 @@ export default [
   {
     author: "Giacomo Leopardi",
     country: "Italy",
-    imageLink: "./assets/images/poems-giacomo-leopardi.jpg",
+    img: "poems-giacomo-leopardi.jpg",
     language: "Italian",
     link: "\n",
     pages: 184,
@@ -618,7 +618,7 @@ export default [
   {
     author: "Doris Lessing",
     country: "United Kingdom",
-    imageLink: "./assets/images/the-golden-notebook.jpg",
+    img: "the-golden-notebook.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/The_Golden_Notebook\n",
     pages: 688,
@@ -629,7 +629,7 @@ export default [
   {
     author: "Astrid Lindgren",
     country: "Sweden",
-    imageLink: "./assets/images/pippi-longstocking.jpg",
+    img: "pippi-longstocking.jpg",
     language: "Swedish",
     link: "https://en.wikipedia.org/wiki/Pippi_Longstocking\n",
     pages: 160,
@@ -640,7 +640,7 @@ export default [
   {
     author: "Lu Xun",
     country: "China",
-    imageLink: "./assets/images/diary-of-a-madman.jpg",
+    img: "diary-of-a-madman.jpg",
     language: "Chinese",
     link: "https://en.wikipedia.org/wiki/A_Madman%27s_Diary\n",
     pages: 389,
@@ -651,7 +651,7 @@ export default [
   {
     author: "Naguib Mahfouz",
     country: "Egypt",
-    imageLink: "./assets/images/children-of-gebelawi.jpg",
+    img: "children-of-gebelawi.jpg",
     language: "Arabic",
     link: "https://en.wikipedia.org/wiki/Children_of_Gebelawi\n",
     pages: 355,
@@ -662,7 +662,7 @@ export default [
   {
     author: "Thomas Mann",
     country: "Germany",
-    imageLink: "./assets/images/buddenbrooks.jpg",
+    img: "buddenbrooks.jpg",
     language: "German",
     link: "https://en.wikipedia.org/wiki/Buddenbrooks\n",
     pages: 736,
@@ -673,7 +673,7 @@ export default [
   {
     author: "Thomas Mann",
     country: "Germany",
-    imageLink: "./assets/images/the-magic-mountain.jpg",
+    img: "the-magic-mountain.jpg",
     language: "German",
     link: "https://en.wikipedia.org/wiki/The_Magic_Mountain\n",
     pages: 720,
@@ -684,7 +684,7 @@ export default [
   {
     author: "Herman Melville",
     country: "United States",
-    imageLink: "./assets/images/moby-dick.jpg",
+    img: "moby-dick.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/Moby-Dick\n",
     pages: 378,
@@ -695,7 +695,7 @@ export default [
   {
     author: "Michel de Montaigne",
     country: "France",
-    imageLink: "./assets/images/essais.jpg",
+    img: "essais.jpg",
     language: "French",
     link: "https://en.wikipedia.org/wiki/Essays_(Montaigne)\n",
     pages: 404,
@@ -706,7 +706,7 @@ export default [
   {
     author: "Elsa Morante",
     country: "Italy",
-    imageLink: "./assets/images/history.jpg",
+    img: "history.jpg",
     language: "Italian",
     link: "https://en.wikipedia.org/wiki/History_(novel)\n",
     pages: 600,
@@ -717,7 +717,7 @@ export default [
   {
     author: "Toni Morrison",
     country: "United States",
-    imageLink: "./assets/images/beloved.jpg",
+    img: "beloved.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/Beloved_(novel)\n",
     pages: 321,
@@ -728,7 +728,7 @@ export default [
   {
     author: "Murasaki Shikibu",
     country: "Japan",
-    imageLink: "./assets/images/the-tale-of-genji.jpg",
+    img: "the-tale-of-genji.jpg",
     language: "Japanese",
     link: "https://en.wikipedia.org/wiki/The_Tale_of_Genji\n",
     pages: 1360,
@@ -739,7 +739,7 @@ export default [
   {
     author: "Robert Musil",
     country: "Austria",
-    imageLink: "./assets/images/the-man-without-qualities.jpg",
+    img: "the-man-without-qualities.jpg",
     language: "German",
     link: "https://en.wikipedia.org/wiki/The_Man_Without_Qualities\n",
     pages: 365,
@@ -750,7 +750,7 @@ export default [
   {
     author: "Vladimir Nabokov",
     country: "Russia/United States",
-    imageLink: "./assets/images/lolita.jpg",
+    img: "lolita.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/Lolita\n",
     pages: 317,
@@ -761,7 +761,7 @@ export default [
   {
     author: "George Orwell",
     country: "United Kingdom",
-    imageLink: "./assets/images/nineteen-eighty-four.jpg",
+    img: "nineteen-eighty-four.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four\n",
     pages: 272,
@@ -772,7 +772,7 @@ export default [
   {
     author: "Ovid",
     country: "Roman Empire",
-    imageLink: "./assets/images/the-metamorphoses-of-ovid.jpg",
+    img: "the-metamorphoses-of-ovid.jpg",
     language: "Classical Latin",
     link: "https://en.wikipedia.org/wiki/Metamorphoses\n",
     pages: 576,
@@ -783,7 +783,7 @@ export default [
   {
     author: "Fernando Pessoa",
     country: "Portugal",
-    imageLink: "./assets/images/the-book-of-disquiet.jpg",
+    img: "the-book-of-disquiet.jpg",
     language: "Portuguese",
     link: "https://en.wikipedia.org/wiki/The_Book_of_Disquiet\n",
     pages: 272,
@@ -794,7 +794,7 @@ export default [
   {
     author: "Edgar Allan Poe",
     country: "United States",
-    imageLink: "./assets/images/tales-and-poems-of-edgar-allan-poe.jpg",
+    img: "tales-and-poems-of-edgar-allan-poe.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/Edgar_Allan_Poe_bibliography#Tales\n",
     pages: 842,
@@ -805,7 +805,7 @@ export default [
   {
     author: "Marcel Proust",
     country: "France",
-    imageLink: "./assets/images/a-la-recherche-du-temps-perdu.jpg",
+    img: "a-la-recherche-du-temps-perdu.jpg",
     language: "French",
     link: "https://en.wikipedia.org/wiki/In_Search_of_Lost_Time\n",
     pages: 2408,
@@ -816,7 +816,7 @@ export default [
   {
     author: "François Rabelais",
     country: "France",
-    imageLink: "./assets/images/gargantua-and-pantagruel.jpg",
+    img: "gargantua-and-pantagruel.jpg",
     language: "French",
     link: "https://en.wikipedia.org/wiki/Gargantua_and_Pantagruel\n",
     pages: 623,
@@ -827,7 +827,7 @@ export default [
   {
     author: "Juan Rulfo",
     country: "Mexico",
-    imageLink: "./assets/images/pedro-paramo.jpg",
+    img: "pedro-paramo.jpg",
     language: "Spanish",
     link: "https://en.wikipedia.org/wiki/Pedro_P%C3%A1ramo\n",
     pages: 124,
@@ -838,7 +838,7 @@ export default [
   {
     author: "Rumi",
     country: "Sultanate of Rum",
-    imageLink: "./assets/images/the-masnavi.jpg",
+    img: "the-masnavi.jpg",
     language: "Persian",
     link: "https://en.wikipedia.org/wiki/Masnavi\n",
     pages: 438,
@@ -849,7 +849,7 @@ export default [
   {
     author: "Salman Rushdie",
     country: "United Kingdom, India",
-    imageLink: "./assets/images/midnights-children.jpg",
+    img: "midnights-children.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/Midnight%27s_Children\n",
     pages: 536,
@@ -860,7 +860,7 @@ export default [
   {
     author: "Saadi",
     country: "Persia, Persian Empire",
-    imageLink: "./assets/images/bostan.jpg",
+    img: "bostan.jpg",
     language: "Persian",
     link: "https://en.wikipedia.org/wiki/Bustan_(book)\n",
     pages: 298,
@@ -871,7 +871,7 @@ export default [
   {
     author: "Tayeb Salih",
     country: "Sudan",
-    imageLink: "./assets/images/season-of-migration-to-the-north.jpg",
+    img: "season-of-migration-to-the-north.jpg",
     language: "Arabic",
     link: "https://en.wikipedia.org/wiki/Season_of_Migration_to_the_North\n",
     pages: 139,
@@ -882,7 +882,7 @@ export default [
   {
     author: "José Saramago",
     country: "Portugal",
-    imageLink: "./assets/images/blindness.jpg",
+    img: "blindness.jpg",
     language: "Portuguese",
     link: "https://en.wikipedia.org/wiki/Blindness_(novel)\n",
     pages: 352,
@@ -893,7 +893,7 @@ export default [
   {
     author: "William Shakespeare",
     country: "England",
-    imageLink: "./assets/images/hamlet.jpg",
+    img: "hamlet.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/Hamlet\n",
     pages: 432,
@@ -904,7 +904,7 @@ export default [
   {
     author: "William Shakespeare",
     country: "England",
-    imageLink: "./assets/images/king-lear.jpg",
+    img: "king-lear.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/King_Lear\n",
     pages: 384,
@@ -915,7 +915,7 @@ export default [
   {
     author: "William Shakespeare",
     country: "England",
-    imageLink: "./assets/images/othello.jpg",
+    img: "othello.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/Othello\n",
     pages: 314,
@@ -926,7 +926,7 @@ export default [
   {
     author: "Sophocles",
     country: "Greece",
-    imageLink: "./assets/images/oedipus-the-king.jpg",
+    img: "oedipus-the-king.jpg",
     language: "Greek",
     link: "https://en.wikipedia.org/wiki/Oedipus_the_King\n",
     pages: 88,
@@ -937,7 +937,7 @@ export default [
   {
     author: "Stendhal",
     country: "France",
-    imageLink: "./assets/images/le-rouge-et-le-noir.jpg",
+    img: "le-rouge-et-le-noir.jpg",
     language: "French",
     link: "https://en.wikipedia.org/wiki/The_Red_and_the_Black\n",
     pages: 576,
@@ -948,7 +948,7 @@ export default [
   {
     author: "Laurence Sterne",
     country: "England",
-    imageLink: "./assets/images/the-life-and-opinions-of-tristram-shandy.jpg",
+    img: "the-life-and-opinions-of-tristram-shandy.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/The_Life_and_Opinions_of_Tristram_Shandy,_Gentleman\n",
     pages: 640,
@@ -959,7 +959,7 @@ export default [
   {
     author: "Italo Svevo",
     country: "Italy",
-    imageLink: "./assets/images/confessions-of-zeno.jpg",
+    img: "confessions-of-zeno.jpg",
     language: "Italian",
     link: "https://en.wikipedia.org/wiki/Zeno%27s_Conscience\n",
     pages: 412,
@@ -970,7 +970,7 @@ export default [
   {
     author: "Jonathan Swift",
     country: "Ireland",
-    imageLink: "./assets/images/gullivers-travels.jpg",
+    img: "gullivers-travels.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/Gulliver%27s_Travels\n",
     pages: 178,
@@ -981,7 +981,7 @@ export default [
   {
     author: "Leo Tolstoy",
     country: "Russia",
-    imageLink: "./assets/images/war-and-peace.jpg",
+    img: "war-and-peace.jpg",
     language: "Russian",
     link: "https://en.wikipedia.org/wiki/War_and_Peace\n",
     pages: 1296,
@@ -992,7 +992,7 @@ export default [
   {
     author: "Leo Tolstoy",
     country: "Russia",
-    imageLink: "./assets/images/anna-karenina.jpg",
+    img: "anna-karenina.jpg",
     language: "Russian",
     link: "https://en.wikipedia.org/wiki/Anna_Karenina\n",
     pages: 864,
@@ -1003,7 +1003,7 @@ export default [
   {
     author: "Leo Tolstoy",
     country: "Russia",
-    imageLink: "./assets/images/the-death-of-ivan-ilyich.jpg",
+    img: "the-death-of-ivan-ilyich.jpg",
     language: "Russian",
     link: "https://en.wikipedia.org/wiki/The_Death_of_Ivan_Ilyich\n",
     pages: 92,
@@ -1014,7 +1014,7 @@ export default [
   {
     author: "Mark Twain",
     country: "United States",
-    imageLink: "./assets/images/the-adventures-of-huckleberry-finn.jpg",
+    img: "the-adventures-of-huckleberry-finn.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn\n",
     pages: 224,
@@ -1025,7 +1025,7 @@ export default [
   {
     author: "Valmiki",
     country: "India",
-    imageLink: "./assets/images/ramayana.jpg",
+    img: "ramayana.jpg",
     language: "Sanskrit",
     link: "https://en.wikipedia.org/wiki/Ramayana\n",
     pages: 152,
@@ -1036,7 +1036,7 @@ export default [
   {
     author: "Virgil",
     country: "Roman Empire",
-    imageLink: "./assets/images/the-aeneid.jpg",
+    img: "the-aeneid.jpg",
     language: "Classical Latin",
     link: "https://en.wikipedia.org/wiki/Aeneid\n",
     pages: 442,
@@ -1047,7 +1047,7 @@ export default [
   {
     author: "Vyasa",
     country: "India",
-    imageLink: "./assets/images/the-mahab-harata.jpg",
+    img: "the-mahab-harata.jpg",
     language: "Sanskrit",
     link: "https://en.wikipedia.org/wiki/Mahabharata\n",
     pages: 276,
@@ -1058,7 +1058,7 @@ export default [
   {
     author: "Walt Whitman",
     country: "United States",
-    imageLink: "./assets/images/leaves-of-grass.jpg",
+    img: "leaves-of-grass.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/Leaves_of_Grass\n",
     pages: 152,
@@ -1069,7 +1069,7 @@ export default [
   {
     author: "Virginia Woolf",
     country: "United Kingdom",
-    imageLink: "./assets/images/mrs-dalloway.jpg",
+    img: "mrs-dalloway.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/Mrs_Dalloway\n",
     pages: 216,
@@ -1080,7 +1080,7 @@ export default [
   {
     author: "Virginia Woolf",
     country: "United Kingdom",
-    imageLink: "./assets/images/to-the-lighthouse.jpg",
+    img: "to-the-lighthouse.jpg",
     language: "English",
     link: "https://en.wikipedia.org/wiki/To_the_Lighthouse\n",
     pages: 209,
@@ -1091,7 +1091,7 @@ export default [
   {
     author: "Marguerite Yourcenar",
     country: "France/Belgium",
-    imageLink: "./assets/images/memoirs-of-hadrian.jpg",
+    img: "memoirs-of-hadrian.jpg",
     language: "French",
     link: "https://en.wikipedia.org/wiki/Memoirs_of_Hadrian\n",
     pages: 408,
